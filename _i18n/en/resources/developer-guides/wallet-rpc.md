@@ -1029,7 +1029,7 @@ Get the transaction private key for a transaction.
 
 Inputs:
 
-* *txid* - string; transaction ids
+* *txid* - string; transaction id
 
 Outputs:
 
