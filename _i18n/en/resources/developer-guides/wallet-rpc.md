@@ -1033,7 +1033,7 @@ Inputs:
 
 Outputs:
 
-* *notes* - string; transaction private key of the transaction
+* *tx_key* - string; transaction private key of the transaction
 
 Example:
 
